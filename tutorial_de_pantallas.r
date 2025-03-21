@@ -150,3 +150,4 @@ print(datos_csv_dif)
 #rep<-"C:/Users/Usuario/Documents/medidas_cuerpo.csv"
 #setwd(rep) #cambiar directorio de trabajo
 #datos<-as.data.frame(read.csv("medidas_cuerpo.csv")) #leer archivo csv
+
