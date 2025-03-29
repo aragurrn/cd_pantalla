@@ -1,1 +1,1 @@
-inyesstall.packages("languageserver")
+install.packages("languageserver")
